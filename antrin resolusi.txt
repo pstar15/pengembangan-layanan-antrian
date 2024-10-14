@@ -1,5 +1,28 @@
 1. pengumpulan data
 2. analysis kebutuhan
+  Halaman Utama Pasien WEB/APP
+  * menyediakan fitur pendaftaran antria secara online
+    - input nama pasien
+    - input umur pasien
+    - input keluhan pasien
+    - memilih jenis layanan
+  * pemantauan nomor antrian secara real-time
+    - tampilan jumlah antiran
+    - tampilan antrian yang belum di panggil
+  * notifikasi lama waktu tunggu
+    - pesan waktu
+    - suara notifikasi
 3. perancangan sistem
+  * Front End
+    - HTML
+    - CSS
+    - JavaScript
+  * Back End
+    - PHP
+    - Laravel
+  * DataBase
+    - Mysql
+  * Web Server
+    - Apche
 4. implementasi
 5. testing pengujian sistem
