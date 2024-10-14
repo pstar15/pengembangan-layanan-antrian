@@ -1,5 +1,9 @@
 Galeri
 - pengumpulan data
+  * foto pintu masuk
+  * foto gedung
+  * foto bagian administrasi
+  * foto ruangan priksa
 - analysis kebutuhan
 - perancangan sistem
 - implementasi
