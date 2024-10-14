@@ -1,0 +1,7 @@
+Galeri
+- pengumpulan data
+- analysis kebutuhan
+- perancangan sistem
+- implementasi
+- testing pengujian sisem
+- penyusunan laporan
