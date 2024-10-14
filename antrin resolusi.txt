@@ -1,0 +1,5 @@
+1. pengumpulan data
+2. analysis kebutuhan
+3. perancangan sistem
+4. implementasi
+5. testing pengujian sistem
